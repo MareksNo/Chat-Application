@@ -18,8 +18,8 @@ class Message(models.Model):
         return reversed(messages)
     
     @classmethod
-    def create_message(cls, content):
-        message = cls(content=content)
+    def create_message(cls, content, user):
+        message = cls(content=content, user=user)
         message.save()
 
         return message
