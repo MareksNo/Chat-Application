@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-17T17:22:28.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="i0CZW5xkY9_YqOHozmMk" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-17T18:00:16.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_JvadAOVoTwYgDM5asvH" version="21.3.5" type="github">
   <diagram name="Lapa-1" id="iaABeEHk2dAt37TFWMJv">
-    <mxGraphModel dx="1091" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="432" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,6 +150,11 @@
         </mxCell>
         <mxCell id="5OR2ersFxcuu6v94mTMg-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Q&lt;sub&gt;sub&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="721" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5OR2ersFxcuu6v94mTMg-62" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.37;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;rotation=90;perimeter=none;resizeWidth=1;resizeHeight=1;expand=0;resizable=1;movable=1;points=[[0,0,0,33.9475,61.75],[0,0,0,67.895,0],[0,0,0,125.69749999999999,61.75],[0,1,0,0,0],[0.16,1,0,0,24],[0.5,1,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="503.5" y="290.5" width="179" height="122.5" relative="1" as="geometry">
+            <mxPoint x="522" y="273" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
