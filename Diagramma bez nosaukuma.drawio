@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T10:16:46.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TyL_kJjnY1Bs8eL48JlX" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T16:45:20.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="u36Bxv5qkF_tq4Ye8fuh" version="21.6.8" type="github">
   <diagram name="Lapa-1" id="BvDR4TQPLg42c8kU46B3">
-    <mxGraphModel dx="873" dy="533" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="584" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B-r1o2MZ9U5fgsb8OCQN-61" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Q&lt;sub&gt;eq&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="666" y="561" width="26" height="13" as="geometry" />
+          <mxGeometry x="666" y="566" width="26" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
